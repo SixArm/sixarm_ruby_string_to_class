@@ -1,1 +1,0 @@
-ba9beea8da489914f4c86129c26a026c16b9eef23bee30627acbcdae0bf260236267faf73a14ce2bb35589a64968aadddc35698b0dce0d149966294b83b38a50  sixarm_ruby_string_to_class-1.0.4.gem
