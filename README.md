@@ -16,7 +16,7 @@ Example:
 From Mirage at http://infovore.org/archives/2006/08/02/getting-a-class-object-in-ruby-from-a-string-containing-that-classes-name/
 
 
-## Quickstart
+## Install quickstart
 
 Install:
 
@@ -24,14 +24,14 @@ Install:
 
 Bundler:
 
-    gem "sixarm_ruby_string_to_class", "=1.1.0"
+    gem "sixarm_ruby_string_to_class", "~>1.1.0"
 
 Require:
 
     require "sixarm_ruby_string_to_class"
 
 
-## Install with high security (optional)
+## Install with security (optional)
 
 To enable high security for all our gems:
 
@@ -41,7 +41,7 @@ To enable high security for all our gems:
 
 To install with high security:
 
-    gem install sixarm_ruby_ --test --trust-policy HighSecurity
+    gem install sixarm_ruby_string_to_class --test --trust-policy HighSecurity
 
 
 ## Examples
@@ -55,7 +55,6 @@ To install with high security:
 For docs go to <http://sixarm.com/sixarm_ruby_string_to_class/doc>
 
 Want to help? We're happy to get pull requests.
-
 
 
 ## Changes
