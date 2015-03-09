@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> String#to_class method to convert a string to a class.
+# Ruby » <br> String#to_class method to convert a string to a class.
 
 * Doc: <http://sixarm.com/sixarm_ruby_string_to_class/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_string_to_class>
