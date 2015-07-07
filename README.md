@@ -56,9 +56,3 @@ To install with high security:
 For docs go to <http://sixarm.com/sixarm_ruby_string_to_class/doc>
 
 Want to help? We're happy to get pull requests.
-
-
-## Changes
-
-* 2012-03-18 1.1.0 Upgrade for Ruby 1.9.3, minitest/spec, and improved docs.
-* 2011-10-06 1.0.4 Updates for gem publishing
