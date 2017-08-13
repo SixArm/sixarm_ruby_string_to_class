@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_string_to_class"
-  s.summary           = "SixArm.com » Ruby » String#to_class method"
+  s.summary           = "SixArm.com → Ruby → String#to_class method"
   s.description       = "String#to_class method to convert a string to a class."
   s.version           = "1.1.1"
 
