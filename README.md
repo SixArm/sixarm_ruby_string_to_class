@@ -3,7 +3,7 @@
 * Doc: <http://sixarm.com/sixarm_ruby_string_to_class/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_string_to_class>
 * Repo: <http://github.com/sixarm/sixarm_ruby_string_to_class>
-<!--HEADER-SHUT-->
+<!--header-shut-->
 
 
 ## Introduction
@@ -17,7 +17,7 @@ Example:
 From Mirage at http://infovore.org/archives/2006/08/02/getting-a-class-object-in-ruby-from-a-string-containing-that-classes-name/
 
 
-<!--INSTALL-OPEN-->
+<!--install-opent-->
 
 ## Install
 
@@ -37,7 +37,7 @@ To require the gem in your code:
 
     require 'sixarm_ruby_string_to_class'
 
-<!--INSTALL-SHUT-->
+<!--install-shut-->
 
 
 ## Examples
